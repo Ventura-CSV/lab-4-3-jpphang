@@ -7,7 +7,7 @@ def main():
     total = 0
     i = 0
     while i < 5:
-        num = int(input("enter number here":))
+        num = int(input("enter number here:"))
         total = total = num
         i = i + 1
     
